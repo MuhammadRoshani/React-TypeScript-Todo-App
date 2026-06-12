@@ -8,7 +8,7 @@ This project focuses on clean architecture, smooth UX, and real-world React patt
 ## 🚀 Live Demo
 
 ✅ Vercel Deployment:  
-👉 Live Preview: **[https://]**
+👉 Live Preview: **[https://react-type-script-todo-app.vercel.app]**
 
 ---
 
